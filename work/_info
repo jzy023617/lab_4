@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Quartus Project/curse_prj/test1/sim
+vdown_seg
+Z0 !s110 1727363047
+!i10b 1
+!s100 4k]8fAaOV8_a8mVW_DTUO2
+IO[<nAnl5nnmUbgH:<Q3AN2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/86157/Desktop/lab_4
+w1727362755
+8C:/Users/86157/Desktop/lab_4/rtl/down_seg.v
+FC:/Users/86157/Desktop/lab_4/rtl/down_seg.v
+L0 2
+Z3 OL;L;10.5;63
+r1
+!s85 0
+31
+Z4 !s108 1727363047.000000
+!s107 C:/Users/86157/Desktop/lab_4/rtl/down_seg.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/86157/Desktop/lab_4/rtl/down_seg.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vseg
+R0
+!i10b 1
+!s100 @ea^;WH17N5YZ^bAI[OKc0
+IE<R5C?U3fBXM`nj`26Y;F0
+R1
+R2
+w1727359164
+8C:/Users/86157/Desktop/lab_4/rtl/seg.v
+FC:/Users/86157/Desktop/lab_4/rtl/seg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/86157/Desktop/lab_4/rtl/seg.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/86157/Desktop/lab_4/rtl/seg.v|
+!i113 1
+R5
+R6
+vtb_top
+Z7 !s110 1727363048
+!i10b 1
+!s100 8T<@`amQ7^Eb_Kk]^11^20
+IeA`=Gz5F]I3eS<@V5f11:2
+R1
+R2
+w1727362538
+8C:/Users/86157/Desktop/lab_4/sim/tb_top.v
+FC:/Users/86157/Desktop/lab_4/sim/tb_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/86157/Desktop/lab_4/sim/tb_top.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/86157/Desktop/lab_4/sim/tb_top.v|
+!i113 1
+R5
+R6
+vtop
+R7
+!i10b 1
+!s100 OS[FL`MF;[PI6ObLb>joc1
+IiMDnGiX9GFAiSLL:09HO:0
+R1
+R2
+w1727363039
+8C:/Users/86157/Desktop/lab_4/rtl/top.v
+FC:/Users/86157/Desktop/lab_4/rtl/top.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1727363048.000000
+!s107 C:/Users/86157/Desktop/lab_4/rtl/top.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/86157/Desktop/lab_4/rtl/top.v|
+!i113 1
+R5
+R6
