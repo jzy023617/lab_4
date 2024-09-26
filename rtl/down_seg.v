@@ -43,7 +43,6 @@ always @(posedge sys_clk or negedge rst_n) begin
     if(!rst_n)
         cnt <= #D 0;
     else if(en_d2)begin
-        // if(cnt == 26'd49_999_999)
         if(cnt == 26'd10)
             cnt <= #D 0;
         else
@@ -84,7 +83,6 @@ always @(posedge sys_clk or negedge rst_n) begin
         set_data <= 0;
 	 end
     else if(en_d2) begin 
-        // if(cnt == 26'd24_999_999)begin
         if(cnt == 26'd10)begin
             set_data <= #D set_data - 1;
         end

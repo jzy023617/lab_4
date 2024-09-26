@@ -1,9 +1,9 @@
-C:/Users/86157/Desktop/lab_4/rtl/down_seg.v {1 {vlog -work work -novopt -stats=none C:/Users/86157/Desktop/lab_4/rtl/down_seg.v
+C:/Users/86157/Desktop/lab_4/rtl/top.v {1 {vlog -work work -novopt -stats=none C:/Users/86157/Desktop/lab_4/rtl/top.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
--- Compiling module down_seg
+-- Compiling module top
 
 Top level modules:
-	down_seg
+	top
 
 } {} {}} C:/Users/86157/Desktop/lab_4/sim/tb_top.v {1 {vlog -work work -novopt -stats=none C:/Users/86157/Desktop/lab_4/sim/tb_top.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
